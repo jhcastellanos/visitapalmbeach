@@ -372,12 +372,23 @@ a {
   background: #edf4f1;
 }
 
-.home-foot,
-.rating {
+.home-foot {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
   align-items: center;
-  gap: 1rem;
+  gap: 0.75rem 1rem;
+}
+
+.home-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.7rem;
+}
+
+.rating {
+  margin: 0;
   font-weight: 600;
 }
 
