@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Visita Palm Beach">
+  <rect width="64" height="64" rx="16" fill="#0D3D3A"/>
+  <path d="M32 50V22" stroke="#F6F1E8" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="M32 24c-8-10-16-10-20-8 6 1 12 6 16 12 1-5 5-10 12-12-6 0-8 4-8 8z" fill="#C4A574"/>
+  <path d="M32 26c8-10 16-10 20-8-6 1-12 6-16 12-1-5-5-10-12-12 6 0 8 4 8 8z" fill="#E8DCC8"/>
+  <path d="M32 28c-10-4-16 2-18 8 6-3 12-2 16 2-2-4 0-8 6-10-3 0-4 1-4 0z" fill="#7FA89A"/>
+</svg>
